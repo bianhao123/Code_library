@@ -1,0 +1,4 @@
+2020-10-26 12:14:40,484 - ERROR - advance.py[:30] - error message
+2020-10-26 12:14:40,484 - CRITICAL - advance.py[:31] - critical message
+2020-10-26 12:16:39,921 - ERROR - advance.py[:35] - error message
+2020-10-26 12:16:39,922 - CRITICAL - advance.py[:36] - critical message
