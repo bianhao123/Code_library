@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "E:\\Anaconda3\\envs\\pytorch\\python.exe"
+    "python.pythonPath": "E:\\Anaconda3\\envs\\pytorch\\python.exe",
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "python.dataScience.jupyterServerURI": "local"
 }
